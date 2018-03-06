@@ -1,5 +1,8 @@
 /*
-*  Array Map Helper
+    Array Map Helper
+
+    Iterates through each item of the array,
+    each iterate function return will create a new item in an array.
 */
 
 /*

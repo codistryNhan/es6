@@ -1,5 +1,7 @@
 /*
-*  forEach Array Helper
+  forEach Array Helper
+
+  Iterates through each item, pass a callback to do something to each item.
 */
 
 

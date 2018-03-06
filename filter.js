@@ -1,5 +1,9 @@
 /*
-*  Array filter helper
+    Array filter helper
+
+    Iterate through each item,
+    if the iterate function returns true, the item will be return as an item of an array,
+    if the iterate function returns false, the item will be ignored.
 */
 
 var products = [

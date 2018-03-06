@@ -1,5 +1,9 @@
 /*
-*  Find Array Helper
+    Find Array Helper
+
+    Iterate through each item,
+    if the iterate function returns true, the item is returned.
+    After finding the first item, the Find helper will break.
 */
 
 var users = [
